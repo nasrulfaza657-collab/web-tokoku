@@ -37,4 +37,4 @@
 - Menu Produk/Stock tidak ditampilkan karena database yang diberikan belum memiliki tabel produk atau stok.
 - Chart.js dan Google Fonts dimuat dari CDN sehingga perlu koneksi internet saat halaman dibuka.
 
-DEV al faza
+Dibuat oleh: AL- FAZA
