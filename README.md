@@ -36,3 +36,5 @@
 - Gunakan hanya di localhost. Sebelum dipublikasikan, tambahkan autentikasi, CSRF token, validasi tambahan, dan pengamanan konfigurasi.
 - Menu Produk/Stock tidak ditampilkan karena database yang diberikan belum memiliki tabel produk atau stok.
 - Chart.js dan Google Fonts dimuat dari CDN sehingga perlu koneksi internet saat halaman dibuka.
+
+DEV al faza
